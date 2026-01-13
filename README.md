@@ -34,5 +34,5 @@ npm run dev
 
 ---
 
-**Assignment Completed By**: [Sanchit Kathpalia]  
+**Assignment Completed By**: Sanchit Kathpalia  
 **Date**: 12th January 2026
