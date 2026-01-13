@@ -1,4 +1,4 @@
-# BitScale Assignment
+# BitScale
 
 Responsive data grid component built with React and Vite based on Figma design.
 
